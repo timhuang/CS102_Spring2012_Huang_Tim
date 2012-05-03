@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>Penta.png</file>
+    </qresource>
+</RCC>

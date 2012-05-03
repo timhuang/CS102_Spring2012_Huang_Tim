@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>Level3.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>Ghost.png</file>
+    </qresource>
+</RCC>

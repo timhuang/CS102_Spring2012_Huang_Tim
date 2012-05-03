@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>Heal.png</file>
+    </qresource>
+</RCC>

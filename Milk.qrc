@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/images">
+        <file>Milk.png</file>
+    </qresource>
+</RCC>
